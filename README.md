@@ -4,5 +4,7 @@
   wp-content/plugins/sync-wowcommerce-product
 
   ## Demonstration videos 🔥 
+   ```bash
   create_api_key_and_add_to_plugin_setting.mov
   synchronize_wowecommerce_product.mov
+   ```
